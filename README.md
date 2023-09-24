@@ -3,14 +3,15 @@
 ## Quick Start
 ### Want to play with these notebooks online without having to install anything?
 
-* <a href="https://colab.research.google.com/github/AhmedMahmoud1D/Play-with-Web-Scraping/blob/main/WebScrap.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (recommended)
+<a href="https://colab.research.google.com/github/AhmedMahmoud1D/Play-with-Web-Scraping/blob/main/WebScrap.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (recommended)
   
 ⚠ _Colab provides a temporary environment: anything you do will be deleted after a while, so make sure you download any data you care about._
 
 ### Just want to quickly look at some notebooks, without executing any code?
 
 * <a href="https://nbviewer.org/github/AhemdMahmoud/Play-with-web-scraping/blob/main/WebScrap.ipynb"><img src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg" alt="Render nbviewer" /></a>
- # How to Use
+* [github.com's notebook viewer](https://github.com/AhemdMahmoud/Play-with-web-scraping/blob/main/WebScrap.ipynb) also works but it's not ideal: it's slower, the math equations are not always displayed correctly, and large notebooks often fail to open.
+## Want to install this project on your own machine?
 #### 1.Clone the repository to your local machine.
 #### 2.Install the required libraries: csv, requests, and beautifulsoup4.
 ~~~
